@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://ibb.co.com/D7nnxtM",
+      "title": "The Future of AI",
+      "author": "Sophia Green",
+      "author_img": "https://ibb.co.com/5XQfGrs",
+      "posted_date": "2024-12-15",
+      "reading_time": 5,
+      "hashtags": ["#AI", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://ibb.co.com/7vNP19X",
+      "title": "Mastering React in 30 Days",
+      "author": "John Doe",
+      "author_img": "https://ibb.co.com/BGp1t2k",
+      "posted_date": "2024-11-20",
+      "reading_time": 7,
+      "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": 3,
+      "cover": "https://ibb.co.com/74dJLcr",
+      "title": "The Art of Minimalist Living",
+      "author": "Emma Stone",
+      "author_img": "https://ibb.co.com/m84hyWC",
+      "posted_date": "2024-12-01",
+      "reading_time": 4,
+      "hashtags": ["#Minimalism", "#Lifestyle", "#SelfCare"]
+    },
+    {
+      "id": 4,
+      "cover": "https://ibb.co.com/Rj8wV12",
+      "title": "Exploring Quantum Computing",
+      "author": "Dr. Liam Harper",
+      "author_img": "https://ibb.co.com/hXjj2ww",
+      "posted_date": "2024-12-10",
+      "reading_time": 10,
+      "hashtags": ["#QuantumComputing", "#Science", "#Innovation"]
+    }
+   
+  ]
+  
